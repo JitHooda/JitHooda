@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @JitHooda
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Html/Css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Html/Css/javascript
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:  i am B.com Graduate.
+
 
 <!---
 JitHooda/JitHooda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
